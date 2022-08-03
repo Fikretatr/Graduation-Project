@@ -12,5 +12,6 @@ state diagrams require a long process. The project plans to eliminate these diff
 Projects designed simply in C will be instantly transformed into state diagram and
 verilog code. Thanks to this project, it will make the use of Asm and Verilog more
 effective in the world of embedded and real-time systems.
+
 ![image](https://user-images.githubusercontent.com/72552006/182563835-c690622f-6162-49d0-8556-e24715912487.png)
 
