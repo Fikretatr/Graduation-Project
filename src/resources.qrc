@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/delete.png</file>
+        <file>images/state.png</file>
+        <file>images/initstate.png</file>
+        <file>images/transition.png</file>
+        <file>images/loop.png</file>
+        <file>images/select.png</file>
+        <file>images/convert.ico</file>
+    </qresource>
+</RCC>

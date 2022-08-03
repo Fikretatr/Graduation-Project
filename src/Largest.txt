@@ -1,0 +1,25 @@
+void largest ( int *b )
+{
+    int arr[3] ; 
+    int i ;
+    int max ;
+    max = 0 ;
+    arr[0] = 2 ;
+    arr[1] = 4 ;
+    arr[2] = 6 ;
+   
+    for ( i = 0 ; i < 3 ; i++ ) {
+        
+        if ( arr[i] > max ) {
+
+             max = arr[i] ;
+        }
+        else {
+           
+        }
+
+    }
+
+    b = max ;
+    
+}

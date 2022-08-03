@@ -1,0 +1,16 @@
+void gcd ( int a , int b , int *r )
+{
+  int hcf ;
+  int i ;
+  for ( i = 0 ; i<=a && i<=b ; i++ )
+  {
+    if ( a%i==0 && b%i==0 )
+    {
+      hcf = i ;
+    }
+    else {
+      hcf = hcf + 0 ;
+    }
+  }
+  r = hcf ;
+}

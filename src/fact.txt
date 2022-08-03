@@ -1,0 +1,13 @@
+void fact ( int n , int *b )
+{
+    int f ;
+    int i ;
+
+    f = 1 ;
+
+    for ( i = 1 ; i <= n ; i++ )
+    {
+        f = f * i ;
+    }
+    b = f ;
+}
